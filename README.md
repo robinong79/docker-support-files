@@ -1,2 +1,2 @@
 # docker-support-files
-Various files with commands for Docker Support
+Repo for various handy commands that I needed in times of need.
